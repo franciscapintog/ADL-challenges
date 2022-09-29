@@ -13,5 +13,5 @@ The challenges are from the following courses:
 
 The teacher and assistant of the bootcamp was, respectively:
 
-Ignacio Loayza: https://github.com/TattooeDeer
-Álvaro Fuentes: https://github.com/alvarofda
+1. Ignacio Loayza: https://github.com/TattooeDeer
+2. Álvaro Fuentes: https://github.com/alvarofda

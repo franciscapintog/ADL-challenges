@@ -9,7 +9,7 @@ The challenges are from the following courses:
 3. Machine Learning
 4. SQL for Data Science
 5. Big Data
-6. Data Science final project
+6. Data Science final project (this project has its own repository)
 
 The teacher and assistant of the bootcamp was, respectively:
 
